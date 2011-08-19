@@ -1,0 +1,5 @@
+This Shell application , is a result of not finding a single file subtitles for a foreign language movie and lot of caffine 
+
+SRTMerger takes multiple sutitles files for a movie and gives a single file with all the timestamps fixed :)
+
+Usage: SRTMerger file1 file2 mergedFileName
